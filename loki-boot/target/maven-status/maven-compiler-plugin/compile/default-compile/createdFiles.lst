@@ -1,0 +1,3 @@
+LokiStarter.class
+org\example\service\DemoService.class
+org\example\controller\DemoController.class
